@@ -1,3 +1,7 @@
 # RSA-Chat-Python
 
-Run it using "python2 chat.py localhost 1337"
+## How to Run?
+Step 1: Open two terminals <br>
+Step 2: Run on '''python chat.py localhost 1337''' both terminals<br>
+
+
